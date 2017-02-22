@@ -1,0 +1,38 @@
+<div id="gleisplan">
+  <td>
+    <tr><img src="../assets/img/gleis_horizontal.png" alt=""></tr>
+    <tr><img src="../assets/img/gleis_horizontal.png" alt=""></tr>
+    <tr><img src="../assets/img/gleis_horizontal.png" alt=""></tr>
+    <tr><img src="../assets/img/gleis_horizontal.png" alt=""></tr>
+    <tr><img src="../assets/img/gleis_horizontal.png" alt=""></tr>
+  </td>
+  <td>
+    <tr><img src="../assets/img/gleis_horizontal.png" alt=""></tr>
+    <tr><img src="../assets/img/leer.png" alt=""></tr>
+    <tr><img src="../assets/img/gleis_horizontal.png" alt=""></tr>
+    <tr><img src="../assets/img/gleis_horizontal.png" alt=""></tr>
+    <tr><img src="../assets/img/gleis_horizontal.png" alt=""></tr>
+  </td>
+  <td>
+    <tr><img src="../assets/img/gleis_horizontal.png" alt=""></tr>
+    <tr><img src="../assets/img/gleis_horizontal.png" alt=""></tr>
+    <tr><img src="../assets/img/gleis_horizontal.png" alt=""></tr>
+    <tr><img src="../assets/img/gleis_horizontal.png" alt=""></tr>
+    <tr><img src="../assets/img/gleis_horizontal.png" alt=""></tr>
+  </td>
+  <td>
+    <tr><img src="../assets/img/gleis_horizontal.png" alt=""></tr>
+    <tr><img src="../assets/img/gleis_horizontal.png" alt=""></tr>
+    <tr><img src="../assets/img/gleis_horizontal.png" alt=""></tr>
+    <tr><img src="../assets/img/weiche_von_links_nach_rechts_oben.png" alt=""></tr>
+    <tr><img src="../assets/img/gleis_horizontal.png" alt=""></tr>
+  </td>
+  <td>
+    <tr><img src="../assets/img/gleis_horizontal.png" alt=""></tr>
+    <tr><img src="../assets/img/gleis_horizontal.png" alt=""></tr>
+    <tr><img src="../assets/img/gleis_horizontal.png" alt=""></tr>
+    <tr><img src="../assets/img/gleis_horizontal.png" alt=""></tr>
+    <tr><img src="../assets/img/gleis_horizontal.png" alt=""></tr>
+  </td>
+
+</div>

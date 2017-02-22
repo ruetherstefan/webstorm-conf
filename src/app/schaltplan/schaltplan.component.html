@@ -1,0 +1,9 @@
+<div id="schaltplanDiv">
+  <tr *ngFor="let bausteinReihe of schaltplan">
+    <td *ngFor="let baustein of bausteinReihe">
+      <img [src]=[baustein.bildAdresse] alt="">
+    </td>
+  </tr>
+</div>
+
+
